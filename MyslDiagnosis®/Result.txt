@@ -1,0 +1,11 @@
+TERMINAL ▱ powershell
+
+\MyslDiagnosis®> python3.11.exe .\MyslD.py
+
+State your feelings in no less than 50 words: I am Jashn, the perennial underachiever, and I've earned quite the reputation. In the academic arena, my name is synonymous with failure. Every test I take, my scores plummet, a never-ending spiral of incompetence. My professors must wonder if there's an uncharted abyss of knowledge that I alone have discovered, where failing is the only way to succeed.
+You are diagnosed to be: 0.0% Anxious. 100.0% Depressed. 0.0% Bipolar.
+Do you want to take the diagnosis again? [Y/N] Y
+State your feelings in no less than 50 words: I am Jashn, a perpetual puzzle. Tests are my downfall, a constant battle against the unknown. Failing, I seek understanding in each mistake, one test at a time.
+The length is less than 50 words, which might lead to inaccurate answers. Do you still want to continue? [Y/N] Y
+You are diagnosed to be: 0.0% Anxious. 100.0% Depressed. 0.0% Bipolar.
+Do you want to take the diagnosis again? [Y/N] N

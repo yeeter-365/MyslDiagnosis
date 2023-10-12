@@ -1,0 +1,15 @@
+// Created by HANEEF RAHMAN, XI-K
+// 11-OCT-2023
+
+<◻> MyslDiagnosis.py Python Script
+
+MyslDiagnosis.py is a Python script created by HANEEF RAHMAN. It is designed to perform a diagnostic analysis based on the user's input. The script follows the following steps:
+- It prompts the user to express their feelings in at least 50 words.
+- The input is then processed, analyzed, and categorized into three potential conditions: Anxiety, Depression, and Bipolar Disorder.
+- An analysis score is calculated for each condition based on the user's input.
+- The script provides a diagnosis, expressing the percentage likelihood of each condition.
+- The user can choose to retake the diagnostic analysis or exit the program.
+
+MyslDiagnosis.py is a tool for self-assessment and is not a substitute for professional medical advice. Use it for informational and entertainment purposes only.
+
+© 2023. By HANEEF RAHMAN, XI-K
